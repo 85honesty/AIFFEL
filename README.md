@@ -1,2 +1,2 @@
-# AIFFEL
+# AIFFEL 함께해요~
 AIFFEL - AI DATA
